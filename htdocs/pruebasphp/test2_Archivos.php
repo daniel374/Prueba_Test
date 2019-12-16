@@ -11,7 +11,7 @@
 	'exceptions'=>false));
 	//var_dump($clienteSOAP->__getFunctions()); 
 	//var_dump($clienteSOAP->__getTypes());
-	
+	// printr($valor) para ver el contenido del array multidimensional
 	 
 	//Condiciones { Condicion Condicion; }
 	//BuscarArchivo { Condiciones Condiciones; string IdUsuarioBusqueda; int IdDirectorioBusqueda; }"
@@ -26,12 +26,9 @@
 	//Invocamos a una función del cliente, devolverá el resultado en formato array.
 	
 	//$valor = $client->nombre_funcion($aParametros);
-
-	  //Puedes usar un printr($valor) para ver el contenido del array multidimensional
-	  //Aquí tienes un ejemplo de cómo acceder a un valor concreto dentro del array    
 	
-	//$localizador=$value->nombre_de_la_clave_del_array;
-	  //A continuación podrás continuar con tu código PHP o invocar más funciones SOAP        
+	 //A continuación podrás continuar con tu código PHP o invocar más funciones SOAP
+//Continuar posteriormente con la carga de la data a BD
 	
 
 ?>
