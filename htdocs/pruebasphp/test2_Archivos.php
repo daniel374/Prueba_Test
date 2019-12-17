@@ -1,5 +1,6 @@
  <?php
  
+	set_time_limit(300);
 	require_once('conexion_BD.php');
  
 	header('Content-Type: text/html; charset=utf-8');
