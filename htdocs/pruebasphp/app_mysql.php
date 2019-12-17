@@ -1,10 +1,6 @@
-<?PHP
+<?php
 
-	function db_connect() {
-		$conexion = mysqli_connect("localhost", "root", "Bruno374", "test_archivos") or die ( mysql_error() );
-		return $conexion;
-	}
-	
+	require_once('conexion_BD.php');	
 
 	//mysql_select_db("test_archivos", $conexion) or die ( mysql_error() );
 
@@ -15,7 +11,7 @@
 	if( mysqli_num_rows($resultado) > 0 ) 
 	{
 		while( $objFila = mysqli_fetch_object($resultado) )
-			echo $objFila->Cantidad. "<br />";
+			echo "hay datos " . $objFila->Cantidad. "<br />";
 	} else {
 		echo "no hay archivos";
 	}

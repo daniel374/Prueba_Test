@@ -1,0 +1,28 @@
+http://www.mauricioalpizar.com/ejemplo-de-como-enviar-arreglo-multidimensional-para-nusoap/
+
+https://www.youtube.com/watch?v=cGQPGb8nhTs
+https://www.youtube.com/watch?v=wlFv1AR0APg
+
+*** Laravel
+https://github.com/juangonzaq/soap-laravel-course
+https://laravel.com/docs/6.x/contributions
+
+
+*** NUSOAP
+https://desarrolloweb.com/articulos/1885.php
+http://www.mauricioalpizar.com/ejemplo-de-como-enviar-arreglo-multidimensional-para-nusoap/
+http://www.mauricioalpizar.com/ejemplos/nusoap/ce_server.php?wsdl
+
+https://cvnet.cpd.ua.es/servicioweb/publicos/pub_gestdocente.asmx?wsdl
+https://github.com/elivarl/Cliente-Web-Services-PHP
+https://www.ecodeup.com/como-crear-un-cliente-y-consumir-un-servicio-web-soap-en-php/
+https://www.danipastor.es/como-programar-un-sencillo-cliente-soap-en-php/
+
+https://blog.osusnet.com/2008/08/06/consumiendo-webservices-soap-desde-php/comment-page-1/
+
+*** STDcLASS oBJECT php 
+https://stackoverflow.com/questions/11231638/get-values-stdclass-object-php
+
+*** CURSO DE CAKE
+http://www.edsonmm.com/curso-del-framework-cakephp3/
+https://www.youtube.com/watch?v=_-wsND1Rs4c
