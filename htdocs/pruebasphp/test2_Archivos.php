@@ -53,8 +53,8 @@
 		
 		foreach ($tipo_archivo as &$valor){
 			#Consulta el tipo de archivo no exista:
-			//echo (" " . $valor . "\r\n ");
-			if(strlen($valor)< 4 and strlen($valor)>2 and $valor === end($tipo_archivo)){
+			//echo (" " . $valor . "\r\n ");  ERROR en strlen($valor)< 4 and strlen($valor)>2 and
+			if($valor === end($tipo_archivo)){
 				//echo (" exten: " . $valor . "\r\n\n ");
 				$query_tp_arch = "SELECT id_tpa FROM tipos_archivo WHERE extension = '" . $valor . "'";
 

@@ -5,8 +5,7 @@ use test_archivos;
 create table tipos_archivo
 (
 id_tpa int (3) AUTO_INCREMENT,
-extension varchar (5),
---UNIQUE KEY unique_extension(extension),
+extension varchar (10),
 primary key (id_tpa)
 );
 
